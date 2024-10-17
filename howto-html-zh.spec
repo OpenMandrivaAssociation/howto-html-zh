@@ -12,7 +12,7 @@ Group:		Books/Howtos
 
 Source0:	%{name}.tar
 
-Url:		http://www.linuxdoc.org/docs.html#howto
+Url:		https://www.linuxdoc.org/docs.html#howto
 License:	GPLv2
 BuildArch:	noarch
 
